@@ -3,7 +3,7 @@ SEARCHING ( Sequental Searching & Binary Searching )
 •	Searching adalah Proses mengumpulkan sejumlah informasi di komputer dan kemudian mencarinya, lalu memberikan informasi yang diperlukan sesegera mungkin.
 
 •	 Ada dua macam Searching yaitu :
-1.	SEARCHING/Sequental Searching/Sequental Searching.c
+1.	Sequental Searching
 Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier menggunakan prinsip, data yang ada dibandingkan satu persatu secara berurutan dengan yang dicari hingga match atau sesuai.
 
 2.	Binary Searching
