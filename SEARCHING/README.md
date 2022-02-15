@@ -1,12 +1,12 @@
-SEARCHING ( Sequental Searching & Binary Searching )
+<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Sequental%20Searching">**SEARCHING**</a> ( Sequental Searching & Binary Searching )
 
 •	Searching adalah Proses mengumpulkan sejumlah informasi di komputer dan kemudian mencarinya, lalu memberikan informasi yang diperlukan sesegera mungkin.
 
 •	 Ada dua macam Searching yaitu :
-1.	Sequental Searching
+1.	<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Sequental%20Searching">**Sequental Searching**</a>.
 Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier menggunakan prinsip, data yang ada dibandingkan satu persatu secara berurutan dengan yang dicari hingga match atau sesuai.
 
-2.	Binary Searching
+2.	<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Binary%20Searching">**Binary Searching**</a>
     Binary search adalah algoritma pencarian untuk data yang terurut. Pencarian dilakukan dengan cara menebak apakah data yang dicari berada ditengah-tengah data,
     
      I.	Kemudian membandingkan data yang dicari dengan data yang ada ditengah. Bila data yang ditengah sama dengan data yang dicari, berarti data ditemukan. 
