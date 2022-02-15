@@ -1,11 +1,13 @@
 #include <stdio.h>
 int main()
 {
+  
   int n, i,j,data[n],cari[3], jumlah = 0;
   printf("Mau berapa banyak data yang disimpan? ");
   scanf("%d", &n);
   printf("Masukkan %d integer\n", n);
   for (i = 0; i <= n; i++)
+    
   {
         printf("Angka ke-%d = ", i);
         scanf("%d", &data[i]);
