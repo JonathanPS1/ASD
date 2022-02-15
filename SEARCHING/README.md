@@ -1,4 +1,4 @@
-<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Sequental%20Searching">**SEARCHING**</a> ( Sequental Searching & Binary Searching )
+<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING">**SEARCHING**</a> ( Sequental Searching & Binary Searching )
 
 •	Searching adalah Proses mengumpulkan sejumlah informasi di komputer dan kemudian mencarinya, lalu memberikan informasi yang diperlukan sesegera mungkin.
 
