@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Algoritma Struktur Data
-Ini repository isinya file materi dan tugas Matkul ASD Jonathan Putra Satria 672021179
-=======
 SEARCHING ( Sequental Searching & Binary Searching )
 
 •	Searching adalah Proses mengumpulkan sejumlah informasi di komputer dan kemudian mencarinya, lalu memberikan informasi yang diperlukan sesegera mungkin.
@@ -19,4 +15,3 @@ Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier men
 
      III. Upper bound dari bagian data kiri yang baru adalah indeks dari data tengah itu sendiri. Sebaliknya, bila data yang ditengah lebih kecil dari data yang dicari, maka         dapat dipastikan bahwa data yang dicari kemungkinan besar berada disebelah kanan dari data tengah. Lower bound dari data disebelah kanan dari data tengah adalah indeks         dari data tengah itu sendiri ditambah. Demikian seterusnya.
 
->>>>>>> d97215b1c18539bde641264899d263e38caa4a85
