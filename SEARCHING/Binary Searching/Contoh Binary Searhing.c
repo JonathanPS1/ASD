@@ -52,7 +52,7 @@ int main ()
     }
     else
     {
-        printf("\nAngka %d ditemukan di indeks %d", cari ,hasil+1);
+        printf("\nAngka %d ditemukan di indeks %d", cari ,hasil);
     }
 
     return 0;
