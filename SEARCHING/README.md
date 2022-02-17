@@ -5,7 +5,7 @@
 •	 Ada dua macam Searching yaitu :
 1.	<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Sequental%20Searching">**Sequental Searching**</a>.
 
-Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier menggunakan prinsip, data yang ada dibandingkan satu persatu secara berurutan dengan yang dicari hingga match atau sesuai.
+    Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier menggunakan prinsip, data yang ada dibandingkan satu persatu secara berurutan dengan yang          dicari hingga match atau sesuai.
 
 2.	<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Binary%20Searching">**Binary Searching**</a>
     
