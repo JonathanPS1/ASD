@@ -1,16 +1,14 @@
-<<<<<<< HEAD
-# Algoritma Struktur Data
-Ini repository isinya file materi dan tugas Matkul ASD Jonathan Putra Satria 672021179
-=======
-SEARCHING ( Sequental Searching & Binary Searching )
+<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING">**SEARCHING**</a> ( Sequental Searching & Binary Searching )
 
 •	Searching adalah Proses mengumpulkan sejumlah informasi di komputer dan kemudian mencarinya, lalu memberikan informasi yang diperlukan sesegera mungkin.
 
 •	 Ada dua macam Searching yaitu :
-1.	Sequental Searching
-Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier menggunakan prinsip, data yang ada dibandingkan satu persatu secara berurutan dengan yang dicari hingga match atau sesuai.
+1.	<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Sequental%20Searching">**Sequental Searching**</a>.
 
-2.	Binary Searching
+    Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier menggunakan prinsip, data yang ada dibandingkan satu persatu secara berurutan dengan yang          dicari hingga match atau sesuai.
+
+2.	<a href="https://github.com/JonathanPS1/ASD/tree/main/SEARCHING/Binary%20Searching">**Binary Searching**</a>
+    
     Binary search adalah algoritma pencarian untuk data yang terurut. Pencarian dilakukan dengan cara menebak apakah data yang dicari berada ditengah-tengah data,
     
      I.	Kemudian membandingkan data yang dicari dengan data yang ada ditengah. Bila data yang ditengah sama dengan data yang dicari, berarti data ditemukan. 
@@ -19,4 +17,3 @@ Pencarian sekuensial (Sequental Search) atau sering disebut pencarian linier men
 
      III. Upper bound dari bagian data kiri yang baru adalah indeks dari data tengah itu sendiri. Sebaliknya, bila data yang ditengah lebih kecil dari data yang dicari, maka         dapat dipastikan bahwa data yang dicari kemungkinan besar berada disebelah kanan dari data tengah. Lower bound dari data disebelah kanan dari data tengah adalah indeks         dari data tengah itu sendiri ditambah. Demikian seterusnya.
 
->>>>>>> d97215b1c18539bde641264899d263e38caa4a85
